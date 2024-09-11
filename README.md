@@ -34,5 +34,5 @@ Feel free to connect or collaborate with me:
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fardadansari&show_icons=true&theme=radical)
 
