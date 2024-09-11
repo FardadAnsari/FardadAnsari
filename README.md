@@ -28,7 +28,7 @@ I am continuously expanding my knowledge in:
 
 ## 🌐 Connect with Me
 Feel free to connect or collaborate with me:
-- [LinkedIn]([https://www.linkedin.com/in/yourname](https://www.linkedin.com/in/fardad-ansari-1aa93b1a3/)) 🔗
+- [LinkedIn]([(https://www.linkedin.com/in/fardad-ansari-1aa93b1a3/)]) 🔗
 - [Personal Website](https://fardadansari.com) 🌐
 
 ---
