@@ -1,4 +1,4 @@
-# 👨‍💻 Hello, I'm [Your Name] 👋 
+# 👨‍💻 Hello, I'm Fardad Ansari 👋 
 
 **Engineering Background**  
 I am an **Engineering** graduate specializing in **Electronic and Wireless Communication Engineering**. 🚀 I use **Software Engineering** as a powerful tool to solve complex problems in the field of engineering. My passion lies in the intersection of **Deep Learning** and **Wireless Communications**, where I explore cutting-edge applications of AI in the world of wireless technology. 📡💡
